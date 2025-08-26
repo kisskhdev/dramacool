@@ -1,0 +1,21 @@
+{
+  "name": "Kissme",
+  "short_name": "Kissme",
+  "description": "Watch drama online in high quality. Free download high quality drama. Feel Free To Watch!",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000",
+  "theme_color": "#1f1f1f",
+  "icons": [
+    {
+      "src": "/images/icons/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icons/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
