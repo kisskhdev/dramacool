@@ -1,0 +1,8 @@
+{
+    "analyticsCode": "",
+    "searchConsoleCode": "",
+    "google_analytics": "<!-- Google tag (gtag.js) -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-1LW51FD4X0\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'G-1LW51FD4X0');\r\n</script>",
+    "google_console": "<meta name=\"google-site-verification\" content=\"LkJr8LpT0XZLwg4AARHylEae0i8o8gLDgQrzD3vsaJc\"/>",
+    "logo_url": "uploads/689c58f8e7612-kisskh1.png",
+    "favicon_url": "uploads/68a2f2fea1779-loading.png"
+}
